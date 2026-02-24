@@ -1,0 +1,1004 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Daily AI News Digest</title>
+    <link>https://isoprox99.github.io/daily-ai-news-podcast</link>
+    <description>매일 아침 AI가 선별·요약한 국내외 주요 뉴스를 한국어 음성으로 전달합니다.</description>
+    <language>ko</language>
+    <lastBuildDate>Tue, 24 Feb 2026 08:52:41 GMT</lastBuildDate>
+    <atom:link href="https://isoprox99.github.io/daily-ai-news-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>Daily AI News Digest</itunes:author>
+    <itunes:summary>매일 아침 AI가 선별·요약한 국내외 주요 뉴스를 한국어 음성으로 전달합니다.</itunes:summary>
+    <itunes:category text="News">
+      <itunes:category text="Daily News" />
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://isoprox99.github.io/daily-ai-news-podcast/cover.jpg" />
+    <itunes:owner>
+      <itunes:name>Daily AI News Digest</itunes:name>
+      <itunes:email>kisti_platform@users.noreply.github.com</itunes:email>
+    </itunes:owner>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://isoprox99.github.io/daily-ai-news-podcast/cover.jpg</url>
+      <title>Daily AI News Digest</title>
+      <link>https://isoprox99.github.io/daily-ai-news-podcast</link>
+    </image>
+    <item>
+      <title>2026-02-24 AI 뉴스 브리핑</title>
+      <description>AI 뉴스 브리핑입니다.
+
+1. 구윤철 부총리 “트럼프 상호관세 위법, 글로벌
+2. [서환-마감] 관세 위법 판결·약달러로 하락
+3. 새 대법관 제청, 한 달째 이례적 ‘스톱’··
+4. 2월 상반기 수출 435억달러…반도체 134%
+5. 한국 반도체 소부장 130조 돌파…AI 호황
+6. JP모건, 트럼프 계좌 강제 중단...탈중앙화
+7. 서울대 로보틱스연구소 출범…피지컬AI 연구 허
+8. ‘윤석열 출국금지’ 국회 보고했다고…박성재 “
+9. 나토, 우크라이나 전쟁 교훈 반영한 공중 방어
+10. 타이완, 40% 반도체 공급 이전 거부
+11. 중국, 미국에 단일 관세 폐지 촉구
+12. 미국-인도, 5000억 달러 무역 합의
+13. 인도, 반도체 자립 시대 개막
+14. 트럼프, 전 세계 관세 15%로 인상
+15. 러시아, 우크라이나 전쟁 4년째 여파
+16. 영국 외교장관, 개혁당과 녹색당에 러시아·나토
+17. 남수단, 사이버 범죄 및 컴퓨터 남용 방지법
+18. 인도, 인공지능 기술 확산 최고 수준… 과도한
+19. 유럽연합 러시아 제재 지연, 유럽 실패로 평가
+20. 우크라이나, 호주에 2026 지원 계획 요구</description>
+      <itunes:summary>AI 뉴스 브리핑입니다.
+
+1. 구윤철 부총리 “트럼프 상호관세 위법, 글로벌
+2. [서환-마감] 관세 위법 판결·약달러로 하락
+3. 새 대법관 제청, 한 달째 이례적 ‘스톱’··
+4. 2월 상반기 수출 435억달러…반도체 134%
+5. 한국 반도체 소부장 130조 돌파…AI 호황
+6. JP모건, 트럼프 계좌 강제 중단...탈중앙화
+7. 서울대 로보틱스연구소 출범…피지컬AI 연구 허
+8. ‘윤석열 출국금지’ 국회 보고했다고…박성재 “
+9. 나토, 우크라이나 전쟁 교훈 반영한 공중 방어
+10. 타이완, 40% 반도체 공급 이전 거부
+11. 중국, 미국에 단일 관세 폐지 촉구
+12. 미국-인도, 5000억 달러 무역 합의
+13. 인도, 반도체 자립 시대 개막
+14. 트럼프, 전 세계 관세 15%로 인상
+15. 러시아, 우크라이나 전쟁 4년째 여파
+16. 영국 외교장관, 개혁당과 녹색당에 러시아·나토
+17. 남수단, 사이버 범죄 및 컴퓨터 남용 방지법
+18. 인도, 인공지능 기술 확산 최고 수준… 과도한
+19. 유럽연합 러시아 제재 지연, 유럽 실패로 평가
+20. 우크라이나, 호주에 2026 지원 계획 요구</itunes:summary>
+      <itunes:duration>00:07:09</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260224.mp3" length="2574237" type="audio/mpeg" />
+      <guid isPermaLink="true">https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260224.mp3</guid>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026-02-23 AI 뉴스 브리핑</title>
+      <description>AI 뉴스 브리핑입니다.
+
+1. 장동혁, '다주택 줄면 집값 안정' 대통령에
+2. ‘모든 수입품’에 15% 관세…세계 무역질서
+3. 미, ‘무역법 301조’ 관세 예고…한국에도
+4. [ZD 브리핑] 미국 관세 불확실성 지속...
+5. 한은, 올해 성장률 전망치 2.0%까지 높일까
+6. 국세청, 의료광고 유튜버 의사 등 세무조사
+7. [단독]김민석 ‘인천 계양을’ K국정설명회에
+8. 주한 러시아대사관 건물에 ‘승리는 우리의 것’
+9. 나토, 공중 방어 체계 개편 추진
+10. 대만, 40% 반도체 공급망 이전 제안 거부
+11. 미국-인도, 5000억 달러 무역 합의 발표
+12. 인도 반도체 제조 새 시대, 자립 도약
+13. 트럼프, 전 세계 관세 15%로 인상
+14. 예벳 코퍼, 개혁당과 녹색당이 러시아에 대해
+15. 파업 또는 장기 캠페인
+16. 인도, 인공지능 기술 보급 세계 최고 수준
+17. 러시아 친구 중국, 우크라이나 전쟁에서 왜 중
+18. 인도, 글로벌 인공지능 반도체 공급망에 참여
+19. 화장실 용품업체 토토, AI 반도체 업계 주목
+20. 미 하원의원, 트럼프 관세에 반발 강화</description>
+      <itunes:summary>AI 뉴스 브리핑입니다.
+
+1. 장동혁, '다주택 줄면 집값 안정' 대통령에
+2. ‘모든 수입품’에 15% 관세…세계 무역질서
+3. 미, ‘무역법 301조’ 관세 예고…한국에도
+4. [ZD 브리핑] 미국 관세 불확실성 지속...
+5. 한은, 올해 성장률 전망치 2.0%까지 높일까
+6. 국세청, 의료광고 유튜버 의사 등 세무조사
+7. [단독]김민석 ‘인천 계양을’ K국정설명회에
+8. 주한 러시아대사관 건물에 ‘승리는 우리의 것’
+9. 나토, 공중 방어 체계 개편 추진
+10. 대만, 40% 반도체 공급망 이전 제안 거부
+11. 미국-인도, 5000억 달러 무역 합의 발표
+12. 인도 반도체 제조 새 시대, 자립 도약
+13. 트럼프, 전 세계 관세 15%로 인상
+14. 예벳 코퍼, 개혁당과 녹색당이 러시아에 대해
+15. 파업 또는 장기 캠페인
+16. 인도, 인공지능 기술 보급 세계 최고 수준
+17. 러시아 친구 중국, 우크라이나 전쟁에서 왜 중
+18. 인도, 글로벌 인공지능 반도체 공급망에 참여
+19. 화장실 용품업체 토토, AI 반도체 업계 주목
+20. 미 하원의원, 트럼프 관세에 반발 강화</itunes:summary>
+      <itunes:duration>00:06:53</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260223.mp3" length="2483517" type="audio/mpeg" />
+      <guid isPermaLink="true">https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260223.mp3</guid>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026-02-22 AI 뉴스 브리핑</title>
+      <description>AI 뉴스 브리핑입니다.
+
+1. 미 대법 ‘상호관세’ 제동에…청와대 “합의로
+2. [관세 위법판결] 트럼프 협상력 약화하나…복
+3. 트럼프: '대미 투자 예정대로' 미국 관세 위
+4. 한학자 오늘 구치소 복귀‥법원이 구속집행정지
+5. K2 전차 기술 유출 방산업자 실형 확정
+6. "한 번 걸리면 막을 수 없다?"⋯'이 나무'
+7. 삼성전자 런던시장 3.79% 급등… 관세 판결
+8. "4억원 내렸다"⋯강남권 재건축 가격 '흔들'
+9. 나토, 우크라이나 전쟁으로 공방 개편 추진
+10. 대만, 워싱턴 40% 반도체 공급 이전 요구
+11. 미-인도, 5000억 달러 규모 무역 합의 발
+12. 코퍼 외교장관, 개혁당-녹색당 '러시아 온건·
+13. 러시아-우크라이나 전쟁: 목록
+14. 트럼프 관세 폐지, 부채 위기 심화 위협
+15. 인도, 인공지능 기술 확산 세계 최고 수준
+16. 우크라이나 전쟁 퇴역군인, 무대 빛 속 치유와
+17. 인도, 글로벌 인공지능 반도체 공급망에 참여
+18. 토토, AI 반도체 공급망 핵심 기업으로 주목
+19. 천장원 국립공원 생태환경과 관광 활동 연계 분
+20. 정확하게 CI 식별</description>
+      <itunes:summary>AI 뉴스 브리핑입니다.
+
+1. 미 대법 ‘상호관세’ 제동에…청와대 “합의로
+2. [관세 위법판결] 트럼프 협상력 약화하나…복
+3. 트럼프: '대미 투자 예정대로' 미국 관세 위
+4. 한학자 오늘 구치소 복귀‥법원이 구속집행정지
+5. K2 전차 기술 유출 방산업자 실형 확정
+6. "한 번 걸리면 막을 수 없다?"⋯'이 나무'
+7. 삼성전자 런던시장 3.79% 급등… 관세 판결
+8. "4억원 내렸다"⋯강남권 재건축 가격 '흔들'
+9. 나토, 우크라이나 전쟁으로 공방 개편 추진
+10. 대만, 워싱턴 40% 반도체 공급 이전 요구
+11. 미-인도, 5000억 달러 규모 무역 합의 발
+12. 코퍼 외교장관, 개혁당-녹색당 '러시아 온건·
+13. 러시아-우크라이나 전쟁: 목록
+14. 트럼프 관세 폐지, 부채 위기 심화 위협
+15. 인도, 인공지능 기술 확산 세계 최고 수준
+16. 우크라이나 전쟁 퇴역군인, 무대 빛 속 치유와
+17. 인도, 글로벌 인공지능 반도체 공급망에 참여
+18. 토토, AI 반도체 공급망 핵심 기업으로 주목
+19. 천장원 국립공원 생태환경과 관광 활동 연계 분
+20. 정확하게 CI 식별</itunes:summary>
+      <itunes:duration>00:07:42</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260222.mp3" length="2775261" type="audio/mpeg" />
+      <guid isPermaLink="true">https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260222.mp3</guid>
+      <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026-02-21 AI 뉴스 브리핑</title>
+      <description>AI 뉴스 브리핑입니다.
+
+1. 원화 스테이블코인, 할지 말지 끝났다…이제는
+2. 윤석열 계엄 주장 전부 배척… 법원 '국가비상
+3. 국민의힘 내홍…장동혁, 윤석열 절연 거부
+4. 리벨리온, AI 추론칩 글로벌 테스트 돌입
+5. [코인리더스] "은행 코인" 꼬리표 떼나?..
+6. 은행-암호화폐업계 합의로 법안 통과 가능성 8
+7. 계엄은 대통령 권한? 피해 없으니 참작?···
+8. 이 대통령, 카이스트 방문… 연구자 지원 강조
+9. 나토, 우크라이나 전쟁으로 공중 방어 개편 추
+10. 대만, 미국 반도체 공급망 이전 요구 거부
+11. 미국-인도, 5000억 달러 무역 합의 발표
+12. 예언된 전쟁: C /think
+13. 영국 외교장관, 개혁당과 녹색당에 NATO 약
+14. 러시아-우크라이나 전쟁 1457일 주요 사건
+15. 인도 인공지능 기술 확산 최고 수준, 과규제
+16. 일본, 우크라이나에 200억 달러 지원
+17. 인도, 팍실리카 연합에 가입
+18. 화장실 용품 업체 토토, AI 반도체 공급망
+19. 케냐인 1천명 러시아 측 우크라이나 전쟁 참전
+20. 러시아 농촌, 우크라이나 전쟁으로 남성 대부분</description>
+      <itunes:summary>AI 뉴스 브리핑입니다.
+
+1. 원화 스테이블코인, 할지 말지 끝났다…이제는
+2. 윤석열 계엄 주장 전부 배척… 법원 '국가비상
+3. 국민의힘 내홍…장동혁, 윤석열 절연 거부
+4. 리벨리온, AI 추론칩 글로벌 테스트 돌입
+5. [코인리더스] "은행 코인" 꼬리표 떼나?..
+6. 은행-암호화폐업계 합의로 법안 통과 가능성 8
+7. 계엄은 대통령 권한? 피해 없으니 참작?···
+8. 이 대통령, 카이스트 방문… 연구자 지원 강조
+9. 나토, 우크라이나 전쟁으로 공중 방어 개편 추
+10. 대만, 미국 반도체 공급망 이전 요구 거부
+11. 미국-인도, 5000억 달러 무역 합의 발표
+12. 예언된 전쟁: C /think
+13. 영국 외교장관, 개혁당과 녹색당에 NATO 약
+14. 러시아-우크라이나 전쟁 1457일 주요 사건
+15. 인도 인공지능 기술 확산 최고 수준, 과규제
+16. 일본, 우크라이나에 200억 달러 지원
+17. 인도, 팍실리카 연합에 가입
+18. 화장실 용품 업체 토토, AI 반도체 공급망
+19. 케냐인 1천명 러시아 측 우크라이나 전쟁 참전
+20. 러시아 농촌, 우크라이나 전쟁으로 남성 대부분</itunes:summary>
+      <itunes:duration>00:07:09</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260221.mp3" length="2577405" type="audio/mpeg" />
+      <guid isPermaLink="true">https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260221.mp3</guid>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026-02-20 AI 뉴스 브리핑</title>
+      <description>AI 뉴스 브리핑입니다.
+
+1. 법원, 윤석열·김용현 내란죄 인정
+2. 2.4% 물가에 ‘금리 재인상’ 카드까지… 연
+3. 암호화폐 시장구조법, 통과 확률 90%...월
+4. 한병도, 장동혁 6채 보유 및 노모 언급 비판
+5. 지귀연, 전두환 아닌 찰스 1세 거론에…“벌거
+6. 창녕·화성 ASF에 포천 AI까지…설 연휴 전
+7. 코스피, 설 연휴 뒤 다시 ‘불장’ …한미 증
+8. 19만전자 찍었다 파죽지세 오르는데…증권가 깜
+9. 나토, 공중 방어 체계 개편 추진
+10. 대만, 40% 반도체 공급 이전 거부
+11. 미국-인도, 관세 인하 및 5000억 달러 상
+12. 미국 주도 우크라이나 평화 합의 올해 어려울
+13. 도널드 트럼프 2인 협상팀, 두 전쟁 동시에
+14. 티에스엠씨, 2029년까지 미국 이전 고급 공
+15. 트럼프 행정부, 가자에 5000인 군사기지 건
+16. 코퍼, 개혁당과 녹색당에 러시아 태도 비판
+17. 인도, 인공지능 기술 확산 최고 수준
+18. 인도, 러시아 유입 감소… 사우디 점유율 회복
+19. 러시아 식당·카페 폐업 급증
+20. 인도반도체미션 2.0, 칩설계·장비생태계 집중</description>
+      <itunes:summary>AI 뉴스 브리핑입니다.
+
+1. 법원, 윤석열·김용현 내란죄 인정
+2. 2.4% 물가에 ‘금리 재인상’ 카드까지… 연
+3. 암호화폐 시장구조법, 통과 확률 90%...월
+4. 한병도, 장동혁 6채 보유 및 노모 언급 비판
+5. 지귀연, 전두환 아닌 찰스 1세 거론에…“벌거
+6. 창녕·화성 ASF에 포천 AI까지…설 연휴 전
+7. 코스피, 설 연휴 뒤 다시 ‘불장’ …한미 증
+8. 19만전자 찍었다 파죽지세 오르는데…증권가 깜
+9. 나토, 공중 방어 체계 개편 추진
+10. 대만, 40% 반도체 공급 이전 거부
+11. 미국-인도, 관세 인하 및 5000억 달러 상
+12. 미국 주도 우크라이나 평화 합의 올해 어려울
+13. 도널드 트럼프 2인 협상팀, 두 전쟁 동시에
+14. 티에스엠씨, 2029년까지 미국 이전 고급 공
+15. 트럼프 행정부, 가자에 5000인 군사기지 건
+16. 코퍼, 개혁당과 녹색당에 러시아 태도 비판
+17. 인도, 인공지능 기술 확산 최고 수준
+18. 인도, 러시아 유입 감소… 사우디 점유율 회복
+19. 러시아 식당·카페 폐업 급증
+20. 인도반도체미션 2.0, 칩설계·장비생태계 집중</itunes:summary>
+      <itunes:duration>00:07:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260220.mp3" length="2625933" type="audio/mpeg" />
+      <guid isPermaLink="true">https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260220.mp3</guid>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026-02-19 AI 뉴스 브리핑</title>
+      <description>AI 뉴스 브리핑입니다.
+
+1. 코스피 5500 안착, 미국발 변수가 가를듯
+2. 힘겹게 총리 올랐던 다카이치, 이번엔 압도적
+3. [일본증시] 닛케이평균 5일 만 반등...정책
+4. 상승 압력 코스피, 글로벌 리스크를 감안해야
+5. 국장에 반도체뿐이라고? K-증시는 ‘팔색조’다
+6. 김용범 “AI, 이젠 코딩 아닌 전기 경쟁…전
+7. 젠슨 황 AI투자 시작 단계…버블은 없다
+8. 윤석열 1심 선고, 국힘이 극우와 절연할 마지
+9. 나토, 공중 방어 체계 개편 추진
+10. 대만, 40% 반도체 공급 이전 거부
+11. 유럽연합, 우크라이나 지원 속도 촉구
+12. 미국-인도, 5000억 달러 무역 합의 발표
+13. 러시아-우크라이나 군사·정치 갈등 해소 무산
+14. 티에스엠씨, 2029년까지 미국 이전 15%
+15. 영국 외교장관, 개혁당-녹색당에 러시아 태도
+16. 인도, 인공지능 기술 확산 세계 최고 수준
+17. 트럼프, 주 정부 AI 규제 반대
+18. 젤렌스키, 트럼프 평화안 비판
+19. 우크라이나-러시아 평화회담, 제네바서 2일차
+20. 젤렌스키, 트럼프에 우크라이나 압박 비판</description>
+      <itunes:summary>AI 뉴스 브리핑입니다.
+
+1. 코스피 5500 안착, 미국발 변수가 가를듯
+2. 힘겹게 총리 올랐던 다카이치, 이번엔 압도적
+3. [일본증시] 닛케이평균 5일 만 반등...정책
+4. 상승 압력 코스피, 글로벌 리스크를 감안해야
+5. 국장에 반도체뿐이라고? K-증시는 ‘팔색조’다
+6. 김용범 “AI, 이젠 코딩 아닌 전기 경쟁…전
+7. 젠슨 황 AI투자 시작 단계…버블은 없다
+8. 윤석열 1심 선고, 국힘이 극우와 절연할 마지
+9. 나토, 공중 방어 체계 개편 추진
+10. 대만, 40% 반도체 공급 이전 거부
+11. 유럽연합, 우크라이나 지원 속도 촉구
+12. 미국-인도, 5000억 달러 무역 합의 발표
+13. 러시아-우크라이나 군사·정치 갈등 해소 무산
+14. 티에스엠씨, 2029년까지 미국 이전 15%
+15. 영국 외교장관, 개혁당-녹색당에 러시아 태도
+16. 인도, 인공지능 기술 확산 세계 최고 수준
+17. 트럼프, 주 정부 AI 규제 반대
+18. 젤렌스키, 트럼프 평화안 비판
+19. 우크라이나-러시아 평화회담, 제네바서 2일차
+20. 젤렌스키, 트럼프에 우크라이나 압박 비판</itunes:summary>
+      <itunes:duration>00:06:52</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260219.mp3" length="2476893" type="audio/mpeg" />
+      <guid isPermaLink="true">https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260219.mp3</guid>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026-02-18 AI 뉴스 브리핑</title>
+      <description>AI 뉴스 브리핑입니다.
+
+1. “2% 금리 엇그제 같은데”…가계 신용대출 5
+2. 다우·S&amp;P·나스닥 선물 동반 하락…AI 혼란
+3. 민주당 "장동혁, 설날에도 대통령 비난, 품격
+4. [빅테크칼럼] 머스크 "테슬라 반도체 칩 디자
+5. "K주식 더 담고 金 비중도 높일만 … 레버리
+6. 테슬라, AI칩 직접생산 의지 … 인재 해외
+7. 지능형 자산이 각인한 ‘성공 정답지’...개인
+8. 스타링크 차단…우크라 2년 반 만에 최대 영토
+9. 나토, 공군 방어 체계 개편 추진
+10. 대만, 미국 반도체 공급 철수 요구 거부
+11. 중국, 서방 차량 러시아 수입 후문 역할
+12. 중국 경유 외제차, 러시아로 유입
+13. 유류 구매, 관세 인하
+14. 티에스엠씨 2029년까지 미국 이전 15% 미
+15. 푸틴 우크라이나 전쟁, 러시아인 일상 파고들어
+16. 러시아 제재에 경제적 전투자 등장
+17. 이브테트 쿠퍼는 개혁을 발언합니다.
+18. 유럽연합 건강디지털집행청, 인공지능·로봇·감지
+19. 인도, 인공지능 기술 확산 최고 수준… 과도한
+20. 푸틴은 평화를 원하지 않는다.</description>
+      <itunes:summary>AI 뉴스 브리핑입니다.
+
+1. “2% 금리 엇그제 같은데”…가계 신용대출 5
+2. 다우·S&amp;P·나스닥 선물 동반 하락…AI 혼란
+3. 민주당 "장동혁, 설날에도 대통령 비난, 품격
+4. [빅테크칼럼] 머스크 "테슬라 반도체 칩 디자
+5. "K주식 더 담고 金 비중도 높일만 … 레버리
+6. 테슬라, AI칩 직접생산 의지 … 인재 해외
+7. 지능형 자산이 각인한 ‘성공 정답지’...개인
+8. 스타링크 차단…우크라 2년 반 만에 최대 영토
+9. 나토, 공군 방어 체계 개편 추진
+10. 대만, 미국 반도체 공급 철수 요구 거부
+11. 중국, 서방 차량 러시아 수입 후문 역할
+12. 중국 경유 외제차, 러시아로 유입
+13. 유류 구매, 관세 인하
+14. 티에스엠씨 2029년까지 미국 이전 15% 미
+15. 푸틴 우크라이나 전쟁, 러시아인 일상 파고들어
+16. 러시아 제재에 경제적 전투자 등장
+17. 이브테트 쿠퍼는 개혁을 발언합니다.
+18. 유럽연합 건강디지털집행청, 인공지능·로봇·감지
+19. 인도, 인공지능 기술 확산 최고 수준… 과도한
+20. 푸틴은 평화를 원하지 않는다.</itunes:summary>
+      <itunes:duration>00:07:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260218.mp3" length="2624493" type="audio/mpeg" />
+      <guid isPermaLink="true">https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260218.mp3</guid>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026-02-17 AI 뉴스 브리핑</title>
+      <description>AI 뉴스 브리핑입니다.
+
+1. 대출상환 포기 소상공인, 빚더미에 보증기관 의
+2. 전문가 90% "집값 상승 주춤"…1주택자 보
+3. 2026 부자들이 선택한 종목은…AI 반도체·
+4. 윤석열·김건희, 나란히 ‘옥중 떡국’ 먹는다…
+5. [MBC 여론조사] '내란우두머리' 윤석열에
+6. 윤상현 “윤 전 대통령, 대국민 사과해야”··
+7. 다주택자 매물 많이 풀리나…5월 9일 이후 매
+8. AI 정부 '공기 같은 서비스' 혁신 추진
+9. 나토, 우크라이나 전쟁으로 공중 방어 개편 추
+10. 대만, 40% 반도체 공급 이전 거부
+11. 미국-인도, 관세 인하와 5000억 달러 상품
+12. 티에스엠씨 2029년까지 미국 이전 15% 미
+13. 북한, 해외 전사 군인 가족 주거지 개장
+14. 영국 외교장관, 개혁당·녹색당에 NATO 약화
+15. 이스라엘, 서부지구 토지등록 개시
+16. 독일 영국 방위 최고책임자, 러시아 확장 위협
+17. 인도 반도체 미션 2.0, 설계·장비 생태계
+18. 말레이시아, 반도체·전력망 투자 확대
+19. 스웨덴, 북극 임무 위해 전투기·병력 투입
+20. 기후위기대응위, 필리핀 에너지전환 강조</description>
+      <itunes:summary>AI 뉴스 브리핑입니다.
+
+1. 대출상환 포기 소상공인, 빚더미에 보증기관 의
+2. 전문가 90% "집값 상승 주춤"…1주택자 보
+3. 2026 부자들이 선택한 종목은…AI 반도체·
+4. 윤석열·김건희, 나란히 ‘옥중 떡국’ 먹는다…
+5. [MBC 여론조사] '내란우두머리' 윤석열에
+6. 윤상현 “윤 전 대통령, 대국민 사과해야”··
+7. 다주택자 매물 많이 풀리나…5월 9일 이후 매
+8. AI 정부 '공기 같은 서비스' 혁신 추진
+9. 나토, 우크라이나 전쟁으로 공중 방어 개편 추
+10. 대만, 40% 반도체 공급 이전 거부
+11. 미국-인도, 관세 인하와 5000억 달러 상품
+12. 티에스엠씨 2029년까지 미국 이전 15% 미
+13. 북한, 해외 전사 군인 가족 주거지 개장
+14. 영국 외교장관, 개혁당·녹색당에 NATO 약화
+15. 이스라엘, 서부지구 토지등록 개시
+16. 독일 영국 방위 최고책임자, 러시아 확장 위협
+17. 인도 반도체 미션 2.0, 설계·장비 생태계
+18. 말레이시아, 반도체·전력망 투자 확대
+19. 스웨덴, 북극 임무 위해 전투기·병력 투입
+20. 기후위기대응위, 필리핀 에너지전환 강조</itunes:summary>
+      <itunes:duration>00:07:09</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260217.mp3" length="2575101" type="audio/mpeg" />
+      <guid isPermaLink="true">https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260217.mp3</guid>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026-02-16 AI 뉴스 브리핑</title>
+      <description>AI 뉴스 브리핑입니다.
+
+1. "AI 랠리 지속 … 코스피 최대 7300"
+2. [속보]기보가 대신 갚은 중기 빚 ‘사상 최대
+3. 5억달러 UAE 자금 유입… 트럼프 일가 연루
+4. [MBC여론조사] 이재명 대통령 국정 지지율
+5. 조국 “이재명 부동산 개혁 공감···중요한 건
+6. "잠든 부부 살해" 혐의 40대, 무기징역 불
+7. 달 탐사 10배 인류 최대 프로젝트…AI 인프
+8. 6억 명 사용자 ‘타임라인 거래’ 임박… 머스
+9. 나토, 공중 방어 체계 개편 추진
+10. 대만, 40% 반도체 공급 이전 거부
+11. 미국-인도 무역협정 주요 내용 발표
+12. 티에스엠씨, 2029년까지 미국 이전 15%
+13. 러시아-우크라이나 전쟁 1,452일 주요 사건
+14. 인공지능 위험성, 기업 실적 발표서 주목
+15. 러시아, 2월 동부 우크라이나 12개 마을 점
+16. 스키, 미국 '우크라이나에 과도한 양보 요
+17. 이스라엘 공습으로 가자 12명 사망
+18. 미국, 인도가 러시아 원유 추가 구매 중단 약
+19. 인도 반도체 2.0, 설계·장비 생태계 집중
+20. 말레이시아, AI 시대 맞아 전력망·반도체 투</description>
+      <itunes:summary>AI 뉴스 브리핑입니다.
+
+1. "AI 랠리 지속 … 코스피 최대 7300"
+2. [속보]기보가 대신 갚은 중기 빚 ‘사상 최대
+3. 5억달러 UAE 자금 유입… 트럼프 일가 연루
+4. [MBC여론조사] 이재명 대통령 국정 지지율
+5. 조국 “이재명 부동산 개혁 공감···중요한 건
+6. "잠든 부부 살해" 혐의 40대, 무기징역 불
+7. 달 탐사 10배 인류 최대 프로젝트…AI 인프
+8. 6억 명 사용자 ‘타임라인 거래’ 임박… 머스
+9. 나토, 공중 방어 체계 개편 추진
+10. 대만, 40% 반도체 공급 이전 거부
+11. 미국-인도 무역협정 주요 내용 발표
+12. 티에스엠씨, 2029년까지 미국 이전 15%
+13. 러시아-우크라이나 전쟁 1,452일 주요 사건
+14. 인공지능 위험성, 기업 실적 발표서 주목
+15. 러시아, 2월 동부 우크라이나 12개 마을 점
+16. 스키, 미국 '우크라이나에 과도한 양보 요
+17. 이스라엘 공습으로 가자 12명 사망
+18. 미국, 인도가 러시아 원유 추가 구매 중단 약
+19. 인도 반도체 2.0, 설계·장비 생태계 집중
+20. 말레이시아, AI 시대 맞아 전력망·반도체 투</itunes:summary>
+      <itunes:duration>00:06:53</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260216.mp3" length="2482221" type="audio/mpeg" />
+      <guid isPermaLink="true">https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260216.mp3</guid>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026-02-15 AI 뉴스 브리핑</title>
+      <description>AI 뉴스 브리핑입니다.
+
+1. 막 내린 세미콘코리아…AI 반도체 시대, 승부
+2. “부동산 불패 우리 정부서 끝낸다는 것이 기조
+3. 명절 전후에도 보이스피싱 '기승'…최근 6년간
+4. "대구 경제 부흥이 최우선 과제 … 극좌 세력
+5. ‘국회 위증’ 혐의 로저스 쿠팡 대표, 66억
+6. 에버랜드보다도 더 많이 찾았다…설 연휴 ‘관광
+7. 내부 결속도 안되는데…이정현 국힘 공관위원장
+8. 장동혁 “이 대통령 재판 재개해야”…조희대 대
+9. NATO, 공중 방공 조치 마련
+10. 대만, 40% 반도체 공급 이전 거부
+11. 석유 구매, 관세 인하
+12. 15퍼센트 미만의
+13. 드론 공격으로 우크라이나·러시아 각 2명 사망
+14. 우크라이나 전쟁 종식 후에도 유럽, 강경 러시
+15. 김정은, 러시아 전투 북한군 칭찬
+16. 인도 반도체 2.0, 설계·생태계 집중
+17. 말레이시아, 전력망·반도체 투자 확대
+18. 스웨덴, 나토 북극 임무에 전투기·산악병 투입
+19. 기후위, 아세안 에너지 전환 협력 촉구
+20. 유럽 재생에너지 전환, 30년 만에 미완료</description>
+      <itunes:summary>AI 뉴스 브리핑입니다.
+
+1. 막 내린 세미콘코리아…AI 반도체 시대, 승부
+2. “부동산 불패 우리 정부서 끝낸다는 것이 기조
+3. 명절 전후에도 보이스피싱 '기승'…최근 6년간
+4. "대구 경제 부흥이 최우선 과제 … 극좌 세력
+5. ‘국회 위증’ 혐의 로저스 쿠팡 대표, 66억
+6. 에버랜드보다도 더 많이 찾았다…설 연휴 ‘관광
+7. 내부 결속도 안되는데…이정현 국힘 공관위원장
+8. 장동혁 “이 대통령 재판 재개해야”…조희대 대
+9. NATO, 공중 방공 조치 마련
+10. 대만, 40% 반도체 공급 이전 거부
+11. 석유 구매, 관세 인하
+12. 15퍼센트 미만의
+13. 드론 공격으로 우크라이나·러시아 각 2명 사망
+14. 우크라이나 전쟁 종식 후에도 유럽, 강경 러시
+15. 김정은, 러시아 전투 북한군 칭찬
+16. 인도 반도체 2.0, 설계·생태계 집중
+17. 말레이시아, 전력망·반도체 투자 확대
+18. 스웨덴, 나토 북극 임무에 전투기·산악병 투입
+19. 기후위, 아세안 에너지 전환 협력 촉구
+20. 유럽 재생에너지 전환, 30년 만에 미완료</itunes:summary>
+      <itunes:duration>00:06:31</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260215.mp3" length="2346573" type="audio/mpeg" />
+      <guid isPermaLink="true">https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260215.mp3</guid>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026-02-14 AI 뉴스 브리핑</title>
+      <description>AI 뉴스 브리핑입니다.
+
+1. "사고는 쿠팡이 쳤는데, 몽둥이는 왜 우리가
+2. 금융위원장, 대웅 스마트 공장 방문..."K바
+3. 금융위, 다주택자 대출 만기연장 점검 긴급 회
+4. 국민성장펀드 재정모펀드, 4파전 압축…모펀드
+5. 대법관 제청 지연…대법원 고립 전망
+6. 임신 중 '독감 백신' 맞아도 될까?… "안전
+7. 구글-MS, AI 웹 에이전트 효율성 개선 표
+8. 보건산업진흥원, 의약품 수출 경쟁력 강화 지원
+9. 대만, 40% 반도체 공급 이전 요구 거부
+10. 러시아로 중국 경유 외제차 수출 증가
+11. 미국-인도, 5000억 달러 무역합의 발표
+12. 티에스엠씨, 2029년까지 미국 이전 15%
+13. Rubio, 미러니크 안보회의서 대서양 관계
+14. 우크라이나는 최종 국제통화기금을 기대한다.
+15. 업데이트 3 - EU, 제재 제안
+16. 핵융합 스타트업 헬리온, 2028 목표로 고온
+17. 유럽전력, 전시 대비 시스템 강화 촉구
+18. 러시아, 오데사 인근 항구 공격 및 전선 인근
+19. 인도 반도체 2.0, 설계·장비 생태계 집중
+20. 말레이시아, AI 시대 맞아 전력망·반도체 투</description>
+      <itunes:summary>AI 뉴스 브리핑입니다.
+
+1. "사고는 쿠팡이 쳤는데, 몽둥이는 왜 우리가
+2. 금융위원장, 대웅 스마트 공장 방문..."K바
+3. 금융위, 다주택자 대출 만기연장 점검 긴급 회
+4. 국민성장펀드 재정모펀드, 4파전 압축…모펀드
+5. 대법관 제청 지연…대법원 고립 전망
+6. 임신 중 '독감 백신' 맞아도 될까?… "안전
+7. 구글-MS, AI 웹 에이전트 효율성 개선 표
+8. 보건산업진흥원, 의약품 수출 경쟁력 강화 지원
+9. 대만, 40% 반도체 공급 이전 요구 거부
+10. 러시아로 중국 경유 외제차 수출 증가
+11. 미국-인도, 5000억 달러 무역합의 발표
+12. 티에스엠씨, 2029년까지 미국 이전 15%
+13. Rubio, 미러니크 안보회의서 대서양 관계
+14. 우크라이나는 최종 국제통화기금을 기대한다.
+15. 업데이트 3 - EU, 제재 제안
+16. 핵융합 스타트업 헬리온, 2028 목표로 고온
+17. 유럽전력, 전시 대비 시스템 강화 촉구
+18. 러시아, 오데사 인근 항구 공격 및 전선 인근
+19. 인도 반도체 2.0, 설계·장비 생태계 집중
+20. 말레이시아, AI 시대 맞아 전력망·반도체 투</itunes:summary>
+      <itunes:duration>00:07:43</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260214.mp3" length="2783757" type="audio/mpeg" />
+      <guid isPermaLink="true">https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260214.mp3</guid>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026-02-13 AI 뉴스 브리핑</title>
+      <description>AI 뉴스 브리핑입니다.
+
+1. 재판소원, ‘기본권 보루’라지만…‘있는 사람만
+2. 코스닥 '동전주' 퇴출…최대 220곳 상장폐지
+3. 강훈식 "李정부, 입법·행정권 총동원 가능…부
+4. 필수의료 특별법 본회의 통과… 지역의료 격차
+5. 행정통합 특별법, 행안위 통과… 여야 갈등 지
+6. 장동혁, 이재명과 오찬 불참… 극우 유튜버 영
+7. “빗썸 보상 안내 URL 링크, 100% 사기
+8. 카카오, 'AI 수익화 원년' 칼 뺐다...구
+9. 대만, 미국 반도체 이전 요구 거부
+10. 우크라이나, 전시 무기 수출 허가 첫 발급
+11. 유류 구매, 관세 인하
+12. 15% 미만의
+13. 나토 장관들이 우크라이나를 주장한다
+14. 인공지능 투자 효과로 소프트뱅크, 흑자 전환
+15. 인도 반도체 2.0, 설계·장비·인재 집중
+16. 말레이시아, 전력망·반도체 투자 확대
+17. 필리핀, 에너지 전환 협력 촉구
+18. 유럽, 30년 에너지 전환 불완전
+19. 나사 과학자, 화성 유기물 미스터리 해명 실패
+20. 페덱스, 2026년 투자자 설명회 개최 및 글</description>
+      <itunes:summary>AI 뉴스 브리핑입니다.
+
+1. 재판소원, ‘기본권 보루’라지만…‘있는 사람만
+2. 코스닥 '동전주' 퇴출…최대 220곳 상장폐지
+3. 강훈식 "李정부, 입법·행정권 총동원 가능…부
+4. 필수의료 특별법 본회의 통과… 지역의료 격차
+5. 행정통합 특별법, 행안위 통과… 여야 갈등 지
+6. 장동혁, 이재명과 오찬 불참… 극우 유튜버 영
+7. “빗썸 보상 안내 URL 링크, 100% 사기
+8. 카카오, 'AI 수익화 원년' 칼 뺐다...구
+9. 대만, 미국 반도체 이전 요구 거부
+10. 우크라이나, 전시 무기 수출 허가 첫 발급
+11. 유류 구매, 관세 인하
+12. 15% 미만의
+13. 나토 장관들이 우크라이나를 주장한다
+14. 인공지능 투자 효과로 소프트뱅크, 흑자 전환
+15. 인도 반도체 2.0, 설계·장비·인재 집중
+16. 말레이시아, 전력망·반도체 투자 확대
+17. 필리핀, 에너지 전환 협력 촉구
+18. 유럽, 30년 에너지 전환 불완전
+19. 나사 과학자, 화성 유기물 미스터리 해명 실패
+20. 페덱스, 2026년 투자자 설명회 개최 및 글</itunes:summary>
+      <itunes:duration>00:07:11</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260213.mp3" length="2587197" type="audio/mpeg" />
+      <guid isPermaLink="true">https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260213.mp3</guid>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026-02-12 AI 뉴스 브리핑</title>
+      <description>AI 뉴스 브리핑입니다.
+
+1. 올 경제성장률 1.9%로 높인 KDI…관세·
+2. 트럼프, 한미 석탄 무역합의 주장
+3. [뉴욕증시] 기대 이상 1월 고용지표에 3대
+4. 반도체 소부장업체의 '슈퍼사이클'이 온다…"하
+5. 미 SEC 디지털자산 규제 계획 발표
+6. 뉴욕증시, 고용보고서 소화하며 하락 출발
+7. 빌 애크먼, 메타에 20억 달러 ‘통 큰 베팅
+8. 구글, 안드로이드 17 첫 베타 출시…연속 개
+9. 트럼프, 이란 거래국에 25% 관세 경고
+10. 대만, 40% 반도체 공급 이전 거부
+11. 미국-인도, 석유 구매 및 5000억 달러 상
+12. 중앙아시아, 러시아 제재 지지 촉구
+13. 티에스엠씨, 2029년까지 미국 이전 15%
+14. 유럽연합, 우크라이나에 900억 유로 지원 결
+15. 나토, 북극 안보 강화 계획
+16. 우크라이나 스키테이너, 금지 헬멧 착용해 경기
+17. 젤렌스키, 여름 전 전쟁 종식을 위한 미국 압
+18. 나토, 북극 군사 임무 '아틱 세인트리' 계획
+19. 나토, 북극 지역 방위 강화 계획 발표
+20. 일본, 나토 우크라이나 무기 지원 프로그램 가</description>
+      <itunes:summary>AI 뉴스 브리핑입니다.
+
+1. 올 경제성장률 1.9%로 높인 KDI…관세·
+2. 트럼프, 한미 석탄 무역합의 주장
+3. [뉴욕증시] 기대 이상 1월 고용지표에 3대
+4. 반도체 소부장업체의 '슈퍼사이클'이 온다…"하
+5. 미 SEC 디지털자산 규제 계획 발표
+6. 뉴욕증시, 고용보고서 소화하며 하락 출발
+7. 빌 애크먼, 메타에 20억 달러 ‘통 큰 베팅
+8. 구글, 안드로이드 17 첫 베타 출시…연속 개
+9. 트럼프, 이란 거래국에 25% 관세 경고
+10. 대만, 40% 반도체 공급 이전 거부
+11. 미국-인도, 석유 구매 및 5000억 달러 상
+12. 중앙아시아, 러시아 제재 지지 촉구
+13. 티에스엠씨, 2029년까지 미국 이전 15%
+14. 유럽연합, 우크라이나에 900억 유로 지원 결
+15. 나토, 북극 안보 강화 계획
+16. 우크라이나 스키테이너, 금지 헬멧 착용해 경기
+17. 젤렌스키, 여름 전 전쟁 종식을 위한 미국 압
+18. 나토, 북극 군사 임무 '아틱 세인트리' 계획
+19. 나토, 북극 지역 방위 강화 계획 발표
+20. 일본, 나토 우크라이나 무기 지원 프로그램 가</itunes:summary>
+      <itunes:duration>00:08:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260212.mp3" length="3162909" type="audio/mpeg" />
+      <guid isPermaLink="true">https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260212.mp3</guid>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026-02-11 AI 뉴스 브리핑</title>
+      <description>AI 뉴스 브리핑입니다.
+
+1. 청년 모두를 위한 재무상담 TF 출범 회의 개최
+2. 법원, 민중기 특검 '김건희 집사' 부실수사 지적
+3. "AI가 스스로 결제하는 시대 … 토종 블록체인 기
+4. 금융당국, 동전주 상폐 강화…시총·매출 기준 대폭 
+5. 김정호 교수, 우주 데이터센터 시장에 HBM 기반 
+6. 한덕수·최상목 헌법재판관 미임명 재판 시작…공소기각
+7. 2027학년도 의대정원 490명 증원…5년간 연평균
+8. 한덕수·정진석, 헌법재판관 미임명 재판서 공소기각 
+9. 트럼프, 25% 관세 위협... 이란과 거래 국가에
+10. Taiwan rebuffs U.S. push to 
+11. Oil purchases, tariff cuts a
+12. Russia can’t attack NATO thi
+13. TSMC 2029년 미국 고도 공정 15% 미만: 
+14. 나토, 북극 군사 임무 계획... 그린란드 문제로 
+15. 우크라이나, 헤라스케비치의 추모 헬멧 착용 허가 요
+16. 리포트: 네타냐후, 2018년부터 하마스 공격 계획
+17. Russia Awaits France's Signa
+18. 일본, NATO 우크라이나 무기 지원 프로그램 가입
+19. 우리의 뼈속에 느껴진다: 머신이 정말 사랑할 수 있
+20. This common tomato nutrient </description>
+      <itunes:summary>AI 뉴스 브리핑입니다.
+
+1. 청년 모두를 위한 재무상담 TF 출범 회의 개최
+2. 법원, 민중기 특검 '김건희 집사' 부실수사 지적
+3. "AI가 스스로 결제하는 시대 … 토종 블록체인 기
+4. 금융당국, 동전주 상폐 강화…시총·매출 기준 대폭 
+5. 김정호 교수, 우주 데이터센터 시장에 HBM 기반 
+6. 한덕수·최상목 헌법재판관 미임명 재판 시작…공소기각
+7. 2027학년도 의대정원 490명 증원…5년간 연평균
+8. 한덕수·정진석, 헌법재판관 미임명 재판서 공소기각 
+9. 트럼프, 25% 관세 위협... 이란과 거래 국가에
+10. Taiwan rebuffs U.S. push to 
+11. Oil purchases, tariff cuts a
+12. Russia can’t attack NATO thi
+13. TSMC 2029년 미국 고도 공정 15% 미만: 
+14. 나토, 북극 군사 임무 계획... 그린란드 문제로 
+15. 우크라이나, 헤라스케비치의 추모 헬멧 착용 허가 요
+16. 리포트: 네타냐후, 2018년부터 하마스 공격 계획
+17. Russia Awaits France's Signa
+18. 일본, NATO 우크라이나 무기 지원 프로그램 가입
+19. 우리의 뼈속에 느껴진다: 머신이 정말 사랑할 수 있
+20. This common tomato nutrient </itunes:summary>
+      <itunes:duration>00:08:09</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260211.mp3" length="2938845" type="audio/mpeg" />
+      <guid isPermaLink="true">https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260211.mp3</guid>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026-02-10 AI 뉴스 브리핑</title>
+      <description>AI 뉴스 브리핑입니다.
+
+1. 알파벳, 100년 만기 회사채 발행 추진
+2. 뉴욕증시 하락…BLS·CPI 발표 앞선 경계감 확대
+3. 이 대통령, 통인시장 방문 '국민 체감 없는 경제 
+4. 소주 한 잔 마시며 이 대통령 “주가 올랐다지만 식
+5. 김총리, 김대중 전 대통령 인용 '이념 vs 정책'
+6. 산업부 장관, 대한상의 보도자료 사태 공적 책무 망
+7. 대형마트 새벽배송 규제 완화…쿠팡 견제 효과 있을까
+8. 비테린, USDC 의존 디파이 구조에 쓴소리
+9. 달러-원, 중국발 약달러·美 고용 우려에 1,457
+10. 이진관 판사, 박성재에 계엄 반대 질문 송곳 심문
+11. 이진숙, 대구시장 출마 시사…DNA 강조
+12. 뉴욕증시, 고용지표 대기 속 상승 출발
+13. 정청래 대표, 합당·특검 논란으로 수세 몰려
+14. 이스라엘, 점령 서부 지역 통제권 확대
+15. 러시아 원유, 싱가포르 경유해 중국으로 이동
+16. 일본 선거 결과, 지정학적 지진… 호주에게 매우 큰
+17. 개별 과외 안전망, 학부모 눈에 안 보여
+18. 장기 Dunedin 페인트 회사 판매 중
+19. AI 생성 광고, 올해 슈퍼볼서 망쳤다
+20. 우주 관광, 체질 저하 우려-새로운 연구 경고</description>
+      <itunes:summary>AI 뉴스 브리핑입니다.
+
+1. 알파벳, 100년 만기 회사채 발행 추진
+2. 뉴욕증시 하락…BLS·CPI 발표 앞선 경계감 확대
+3. 이 대통령, 통인시장 방문 '국민 체감 없는 경제 
+4. 소주 한 잔 마시며 이 대통령 “주가 올랐다지만 식
+5. 김총리, 김대중 전 대통령 인용 '이념 vs 정책'
+6. 산업부 장관, 대한상의 보도자료 사태 공적 책무 망
+7. 대형마트 새벽배송 규제 완화…쿠팡 견제 효과 있을까
+8. 비테린, USDC 의존 디파이 구조에 쓴소리
+9. 달러-원, 중국발 약달러·美 고용 우려에 1,457
+10. 이진관 판사, 박성재에 계엄 반대 질문 송곳 심문
+11. 이진숙, 대구시장 출마 시사…DNA 강조
+12. 뉴욕증시, 고용지표 대기 속 상승 출발
+13. 정청래 대표, 합당·특검 논란으로 수세 몰려
+14. 이스라엘, 점령 서부 지역 통제권 확대
+15. 러시아 원유, 싱가포르 경유해 중국으로 이동
+16. 일본 선거 결과, 지정학적 지진… 호주에게 매우 큰
+17. 개별 과외 안전망, 학부모 눈에 안 보여
+18. 장기 Dunedin 페인트 회사 판매 중
+19. AI 생성 광고, 올해 슈퍼볼서 망쳤다
+20. 우주 관광, 체질 저하 우려-새로운 연구 경고</itunes:summary>
+      <itunes:duration>00:09:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260210.mp3" length="3256653" type="audio/mpeg" />
+      <guid isPermaLink="true">https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260210.mp3</guid>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026-02-06 AI 뉴스 브리핑</title>
+      <description>AI 뉴스 브리핑입니다.
+
+1. AI 기반 '이상 거래 감시' 전면 가동…한국 암호화폐 규제 새 국면
+2. 달러-원, 美 실적기대에 런던장서 상승폭 축소…12.00원↑
+3. 하버드 의대 연구진, 뇌 MRI만으로 ‘뇌 나이·치매 위험·암 예후’ 예측하는 AI 개발
+4. 한명당 매년 4.6억 벌어주는 공무원들…“이름 그대로 지식이 재산입니다”
+5. ‘은둔 청년’ 사회적 비용, 연간 5조3천억원 추산
+6. ‘쿠팡 독점’ 깨려 새벽배송 완화?…“골목상권 상납하는 꼴”
+7. 이 대통령 “물가 집중 관리할 TF 검토하라”
+8. 1,246조 원 '크리에이터 코인' 부상… 트럼프 대통령, 암호화폐 구제 불가 선언
+9. 52만 달러 유입… '정치 리스크 피난처' 리퀴드체인에 쏠리는 자금
+10. 골드만삭스 “헤지펀드들의 순매도 1순위는 소프트웨어”… AI 잠식 우려 현실로
+11. 최대 80% 제한… 캐나다, 거래소 '직접 수탁' 사실상 봉쇄
+12. 내란전담재판부 2곳 무작위 추첨으로 확정
+13. 대통령 자리 앉을 뻔한 정의선…"야망 있어" 총수들 '빵' 터져
+14. Bounteous Launches Claude Code Lab Series in Partnership with Anthropic to Accelerate Responsible AI Adoption
+15. 'We're seeing eviction rates not seen in Ireland since the 1850s'
+16. Hackers hit sensitive targets in 37 nations in vast spying plot
+17. Dutch queen joins army as a reservist citing national security concerns
+18. Oracle's Ellison Down $49B This Year After Software Stocks Dive
+19. Indonesia will ensure risks are managed after Moody's ratings outlook cut
+20. Energy Planning as Investment Driver for Global Grids Enhancement</description>
+      <itunes:summary>AI 뉴스 브리핑입니다.
+
+1. AI 기반 '이상 거래 감시' 전면 가동…한국 암호화폐 규제 새 국면
+2. 달러-원, 美 실적기대에 런던장서 상승폭 축소…12.00원↑
+3. 하버드 의대 연구진, 뇌 MRI만으로 ‘뇌 나이·치매 위험·암 예후’ 예측하는 AI 개발
+4. 한명당 매년 4.6억 벌어주는 공무원들…“이름 그대로 지식이 재산입니다”
+5. ‘은둔 청년’ 사회적 비용, 연간 5조3천억원 추산
+6. ‘쿠팡 독점’ 깨려 새벽배송 완화?…“골목상권 상납하는 꼴”
+7. 이 대통령 “물가 집중 관리할 TF 검토하라”
+8. 1,246조 원 '크리에이터 코인' 부상… 트럼프 대통령, 암호화폐 구제 불가 선언
+9. 52만 달러 유입… '정치 리스크 피난처' 리퀴드체인에 쏠리는 자금
+10. 골드만삭스 “헤지펀드들의 순매도 1순위는 소프트웨어”… AI 잠식 우려 현실로
+11. 최대 80% 제한… 캐나다, 거래소 '직접 수탁' 사실상 봉쇄
+12. 내란전담재판부 2곳 무작위 추첨으로 확정
+13. 대통령 자리 앉을 뻔한 정의선…"야망 있어" 총수들 '빵' 터져
+14. Bounteous Launches Claude Code Lab Series in Partnership with Anthropic to Accelerate Responsible AI Adoption
+15. 'We're seeing eviction rates not seen in Ireland since the 1850s'
+16. Hackers hit sensitive targets in 37 nations in vast spying plot
+17. Dutch queen joins army as a reservist citing national security concerns
+18. Oracle's Ellison Down $49B This Year After Software Stocks Dive
+19. Indonesia will ensure risks are managed after Moody's ratings outlook cut
+20. Energy Planning as Investment Driver for Global Grids Enhancement</itunes:summary>
+      <itunes:duration>00:06:28</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260206.mp3" length="3932877" type="audio/mpeg" />
+      <guid isPermaLink="true">https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260206.mp3</guid>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026-02-05 AI 뉴스 브리핑</title>
+      <description>AI 뉴스 브리핑입니다.
+
+1. AMD, 올해 가이던스 실망감에 12% 폭락
+2. 비트코인 끝내 죽음의 소용돌이(death spiral) 끔찍한 재앙...블룸버그
+3. 관세 합의 요청에 답 피한 미국…한
+4. 미 “에너지 분야 투자” 압박에 정부, 원전 협력 제안
+5. 시진핑과 통화한 트럼프 “관계 극도로 좋아…무역·대만 등 중요 주제 논의”
+6. "응원은 나의 힘…팀코리아의 최대 무기? 위기에 빛나는 정신력"
+7. 수칫 제인 다쏘시스템 "AI 에이전트 간 충돌 막아야…아키텍처 구축 중"
+8. 다쏘시스템 '델미아웍스'가 제조 AI 혁신한 비결…"데이터 통합 관건"
+9. “미래의 돈 아냐”… 영국 상원, 스테이블코인에 ‘거부 신호’
+10. 뉴욕증시, 기술주 약세·고용 부진 반영하며 혼조 출발
+11. 엑셀리스, 세미콘 코리아 2026 참가 발표
+12. 이 대통령 “토끼 있어야 호랑이도 건강”…이재용 “실적 좋아 채용에 여력”
+13. 이석연, 이준석 만나 “40대 리더십 기대한다”
+14. Angola to finalise shift to AIAAN by 1 March
+15. Family at funeral feeds two tourists
+16. New rules offer flexible payment plans amid arrears crisis
+17. Life-friendly molecules are leaking out of Jupiter's giant moon Europa, Galileo images hint
+18. Life-friendly molecules are leaking out of Jupiter's giant moon Europa, Galileo images hint
+19. South Africa’s Tourism Minister in Singapore
+20. Westminster braces for ‘Mandelson Files’ as Starmer wobbles on his most bruising day</description>
+      <itunes:summary>AI 뉴스 브리핑입니다.
+
+1. AMD, 올해 가이던스 실망감에 12% 폭락
+2. 비트코인 끝내 죽음의 소용돌이(death spiral) 끔찍한 재앙...블룸버그
+3. 관세 합의 요청에 답 피한 미국…한
+4. 미 “에너지 분야 투자” 압박에 정부, 원전 협력 제안
+5. 시진핑과 통화한 트럼프 “관계 극도로 좋아…무역·대만 등 중요 주제 논의”
+6. "응원은 나의 힘…팀코리아의 최대 무기? 위기에 빛나는 정신력"
+7. 수칫 제인 다쏘시스템 "AI 에이전트 간 충돌 막아야…아키텍처 구축 중"
+8. 다쏘시스템 '델미아웍스'가 제조 AI 혁신한 비결…"데이터 통합 관건"
+9. “미래의 돈 아냐”… 영국 상원, 스테이블코인에 ‘거부 신호’
+10. 뉴욕증시, 기술주 약세·고용 부진 반영하며 혼조 출발
+11. 엑셀리스, 세미콘 코리아 2026 참가 발표
+12. 이 대통령 “토끼 있어야 호랑이도 건강”…이재용 “실적 좋아 채용에 여력”
+13. 이석연, 이준석 만나 “40대 리더십 기대한다”
+14. Angola to finalise shift to AIAAN by 1 March
+15. Family at funeral feeds two tourists
+16. New rules offer flexible payment plans amid arrears crisis
+17. Life-friendly molecules are leaking out of Jupiter's giant moon Europa, Galileo images hint
+18. Life-friendly molecules are leaking out of Jupiter's giant moon Europa, Galileo images hint
+19. South Africa’s Tourism Minister in Singapore
+20. Westminster braces for ‘Mandelson Files’ as Starmer wobbles on his most bruising day</itunes:summary>
+      <itunes:duration>00:06:04</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260205.mp3" length="3684093" type="audio/mpeg" />
+      <guid isPermaLink="true">https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260205.mp3</guid>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026-02-04 AI 뉴스 브리핑</title>
+      <description>AI 뉴스 브리핑입니다.
+
+1. ‘퇴로’ 열린 다주택자들…시장에 매물 얼마나 내놓을까
+2. 구리·남양주·인천 '의대 학군지' 급부상…대치맘도 이사 고민
+3. 국중박 올해 ‘세계 2위’ 보인다…관객 폭증에 여는 시간 ‘30분 일찍’
+4. 최저임금·근로시간 미적용? 국힘 '대구경북 행정통합특별법' 논란
+5. 전한길, 귀국하자마자 “윤석열 절연하면 장동혁 버릴 것”
+6. ‘법정 난동’ 이하상 변호사 감치 집행…서울구치소 수감될 듯
+7. 제헌절 빨간날 됐다…연차 쓰면 4일 휴가 직장인들 환호
+8. KBS 뉴스
+9. SPC삼립 "시화공장 화재로 심려 끼쳐 송구…당국 조사에 협조"(종합)
+10. [속보]상설특검, 쿠팡 CFS 전현직 대표 기소···출범 후 첫 공소제기
+11. 이 대통령 “공정위 권한 너무 커…전속고발권 폐지를”
+12. JP모건 “코스피 7500도 가능”…전망치 상향조정 끝은 어디?
+13. SK바사, 작년 매출 6514억 "전년比 143.5% 증가"
+14. [단독] 헤지펀드 거물 “하이닉스 여전히 저평가, 美증시 간접상장해야”
+15. “진도·완도·울릉까지”…전 국민 ‘모두의 카드(K-패스)’ 이용 가능
+16. [AW 2026 프리뷰 인터뷰] 데이터랩스 “데이터 쌓이지만, 문제 해결 이어지지 않는 제조 현장 바꾼다”
+17. 마약·도박 이어 중고차 수출마저…"코인으로 돈세탁"
+18. '아틀라스' 배 속엔 배터리‥피지컬AI 따라 'K
+19. 161만 달러 매도… 부테린, ETH 내다팔고 자선단체로 50만 달러 송금
+20. 거래량 반등한 도지코인·리플·페페… 주말 단기순환매 재점화되나
+21. Four held in £3m illegal TV streaming raids
+22. Australia: Teen swims for hours to save family lost at sea
+23. Boy swims 2.5 miles to save mom, siblings swept out to sea: "Superhuman"
+24. Allies seek to shield themselves from President Donald Trump's tariffs
+25. 13-year-old swims for hours to save family swept out to sea
+26. A Hamas Hostage’s Secret Ordeal
+27. NATO Troops Can't Let Guns Get Too Warm to Work on Frozen Battlefields
+28. Iran cites US carrier ‘withdrawal’ as talks begin amid deep disagreements
+29. Musk's X office in France raided by Paris prosecutor
+30. BIG staff plan protest against planned layoffs at London offices
+31. French headquarters of Elon Musk’s X raided by Paris cybercrime unit
+32. Son of Norway’s crown princess denies four counts of rape as trial begins
+33. Australia is rocked by horrific quadruple murder-suicide: Parents kill their two autistic teenage sons and family pets before taking their own lives in upmarket Perth suburb
+34. Thousands without heating on icy night in Ukraine as Russia attacks before talks
+35. Trump urges Republicans to ‘nationalize the voting’ in 15 states, sowing doubt in elections - US politics live
+36. Donald Trump seeks $1bn in damages from Harvard University
+37. Russian hits Ukraine energy sites in 'most powerful blow" so far this year
+38. ICE tear gasses children in Portland
+39. Quran teacher Wisam Sharieff jailed for 80 years for child pornography and exploitation
+40. Police raid Elon Musk’s X office in France</description>
+      <itunes:summary>AI 뉴스 브리핑입니다.
+
+1. ‘퇴로’ 열린 다주택자들…시장에 매물 얼마나 내놓을까
+2. 구리·남양주·인천 '의대 학군지' 급부상…대치맘도 이사 고민
+3. 국중박 올해 ‘세계 2위’ 보인다…관객 폭증에 여는 시간 ‘30분 일찍’
+4. 최저임금·근로시간 미적용? 국힘 '대구경북 행정통합특별법' 논란
+5. 전한길, 귀국하자마자 “윤석열 절연하면 장동혁 버릴 것”
+6. ‘법정 난동’ 이하상 변호사 감치 집행…서울구치소 수감될 듯
+7. 제헌절 빨간날 됐다…연차 쓰면 4일 휴가 직장인들 환호
+8. KBS 뉴스
+9. SPC삼립 "시화공장 화재로 심려 끼쳐 송구…당국 조사에 협조"(종합)
+10. [속보]상설특검, 쿠팡 CFS 전현직 대표 기소···출범 후 첫 공소제기
+11. 이 대통령 “공정위 권한 너무 커…전속고발권 폐지를”
+12. JP모건 “코스피 7500도 가능”…전망치 상향조정 끝은 어디?
+13. SK바사, 작년 매출 6514억 "전년比 143.5% 증가"
+14. [단독] 헤지펀드 거물 “하이닉스 여전히 저평가, 美증시 간접상장해야”
+15. “진도·완도·울릉까지”…전 국민 ‘모두의 카드(K-패스)’ 이용 가능
+16. [AW 2026 프리뷰 인터뷰] 데이터랩스 “데이터 쌓이지만, 문제 해결 이어지지 않는 제조 현장 바꾼다”
+17. 마약·도박 이어 중고차 수출마저…"코인으로 돈세탁"
+18. '아틀라스' 배 속엔 배터리‥피지컬AI 따라 'K
+19. 161만 달러 매도… 부테린, ETH 내다팔고 자선단체로 50만 달러 송금
+20. 거래량 반등한 도지코인·리플·페페… 주말 단기순환매 재점화되나
+21. Four held in £3m illegal TV streaming raids
+22. Australia: Teen swims for hours to save family lost at sea
+23. Boy swims 2.5 miles to save mom, siblings swept out to sea: "Superhuman"
+24. Allies seek to shield themselves from President Donald Trump's tariffs
+25. 13-year-old swims for hours to save family swept out to sea
+26. A Hamas Hostage’s Secret Ordeal
+27. NATO Troops Can't Let Guns Get Too Warm to Work on Frozen Battlefields
+28. Iran cites US carrier ‘withdrawal’ as talks begin amid deep disagreements
+29. Musk's X office in France raided by Paris prosecutor
+30. BIG staff plan protest against planned layoffs at London offices
+31. French headquarters of Elon Musk’s X raided by Paris cybercrime unit
+32. Son of Norway’s crown princess denies four counts of rape as trial begins
+33. Australia is rocked by horrific quadruple murder-suicide: Parents kill their two autistic teenage sons and family pets before taking their own lives in upmarket Perth suburb
+34. Thousands without heating on icy night in Ukraine as Russia attacks before talks
+35. Trump urges Republicans to ‘nationalize the voting’ in 15 states, sowing doubt in elections - US politics live
+36. Donald Trump seeks $1bn in damages from Harvard University
+37. Russian hits Ukraine energy sites in 'most powerful blow" so far this year
+38. ICE tear gasses children in Portland
+39. Quran teacher Wisam Sharieff jailed for 80 years for child pornography and exploitation
+40. Police raid Elon Musk’s X office in France</itunes:summary>
+      <itunes:duration>00:11:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260204.mp3" length="6739821" type="audio/mpeg" />
+      <guid isPermaLink="true">https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260204.mp3</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
