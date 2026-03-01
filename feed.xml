@@ -5,7 +5,7 @@
     <link>https://isoprox99.github.io/daily-ai-news-podcast</link>
     <description>매일 아침 AI가 선별·요약한 국내외 주요 뉴스를 한국어 음성으로 전달합니다.</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 28 Feb 2026 22:35:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 22:40:00 GMT</lastBuildDate>
     <atom:link href="https://isoprox99.github.io/daily-ai-news-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Daily AI News Digest</itunes:author>
     <itunes:summary>매일 아침 AI가 선별·요약한 국내외 주요 뉴스를 한국어 음성으로 전달합니다.</itunes:summary>
@@ -24,6 +24,58 @@
       <title>Daily AI News Digest</title>
       <link>https://isoprox99.github.io/daily-ai-news-podcast</link>
     </image>
+    <item>
+      <title>2026-03-02 AI 뉴스 브리핑</title>
+      <description>AI 뉴스 브리핑입니다.
+
+1. 8% 성장한 대만, 왜 출산율은 세계 꼴찌?
+2. “폭군에 굴복한 챗지피티”…오픈 AI, 미 전
+3. 국힘, 필리버스터 백기투항…TK여론 악화로 행
+4. [속보] 국힘 송언석 “필리버스터 중단…TK통
+5. 현대차그룹, 새만금 9조 투자…대기업 AI 제
+6. “배에서 100m 거리 해상에 폭격 떨어져”…
+7. [사설] 현대차의 새만금 9조 투자, 지역균형
+8. 소시지 꼬치 막대기 삼켜 소장 천공…65세 남
+9. 젤렌스키, 평화협상 시기 중동 상황 의존
+10. 나토, 공중 방어 체계 개편 추진
+11. 러시아, 미국 보안 보장 검토… 우크라이나 정
+12. 미국-이란 갈등, 금은 가격 급등 전망
+13. 인도의 반도체 산업 새 시대
+14. 우크라이나 전쟁 통해 나토 무기 개발 방식 개
+15. 트럼프, 전 세계 관세 10%→15% 인상…
+16. 영국 외교장관, 개혁당과 녹색당 러시아에 약하
+17. 이란, 사이프러스에 미사일 발사…영국군 위협
+18. 인도, 인공지능 기술 확산 최고 수준... 과
+19. 미크론 테크놀로지가 출시합니다.
+20. 고도 패키징, 인도 반도체 공급망 진입 기회</description>
+      <itunes:summary>AI 뉴스 브리핑입니다.
+
+1. 8% 성장한 대만, 왜 출산율은 세계 꼴찌?
+2. “폭군에 굴복한 챗지피티”…오픈 AI, 미 전
+3. 국힘, 필리버스터 백기투항…TK여론 악화로 행
+4. [속보] 국힘 송언석 “필리버스터 중단…TK통
+5. 현대차그룹, 새만금 9조 투자…대기업 AI 제
+6. “배에서 100m 거리 해상에 폭격 떨어져”…
+7. [사설] 현대차의 새만금 9조 투자, 지역균형
+8. 소시지 꼬치 막대기 삼켜 소장 천공…65세 남
+9. 젤렌스키, 평화협상 시기 중동 상황 의존
+10. 나토, 공중 방어 체계 개편 추진
+11. 러시아, 미국 보안 보장 검토… 우크라이나 정
+12. 미국-이란 갈등, 금은 가격 급등 전망
+13. 인도의 반도체 산업 새 시대
+14. 우크라이나 전쟁 통해 나토 무기 개발 방식 개
+15. 트럼프, 전 세계 관세 10%→15% 인상…
+16. 영국 외교장관, 개혁당과 녹색당 러시아에 약하
+17. 이란, 사이프러스에 미사일 발사…영국군 위협
+18. 인도, 인공지능 기술 확산 최고 수준... 과
+19. 미크론 테크놀로지가 출시합니다.
+20. 고도 패키징, 인도 반도체 공급망 진입 기회</itunes:summary>
+      <itunes:duration>00:06:49</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260302.mp3" length="2459469" type="audio/mpeg" />
+      <guid isPermaLink="true">https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260302.mp3</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>2026-03-01 AI 뉴스 브리핑</title>
       <description>AI 뉴스 브리핑입니다.
