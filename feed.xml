@@ -5,7 +5,7 @@
     <link>https://isoprox99.github.io/daily-ai-news-podcast</link>
     <description>매일 아침 AI가 선별·요약한 국내외 주요 뉴스를 한국어 음성으로 전달합니다.</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 09 Mar 2026 22:37:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 22:45:10 GMT</lastBuildDate>
     <atom:link href="https://isoprox99.github.io/daily-ai-news-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Daily AI News Digest</itunes:author>
     <itunes:summary>매일 아침 AI가 선별·요약한 국내외 주요 뉴스를 한국어 음성으로 전달합니다.</itunes:summary>
@@ -24,6 +24,58 @@
       <title>Daily AI News Digest</title>
       <link>https://isoprox99.github.io/daily-ai-news-podcast</link>
     </image>
+    <item>
+      <title>2026-03-11 AI 뉴스 브리핑</title>
+      <description>AI 뉴스 브리핑입니다.
+
+1. 중동 사태로 증시 급변동성 확대
+2. 국가AI컴퓨팅센터 금융심사 통과… 구축 속도
+3. SK, 엔비디아 HBM4 최종 샘플 납품
+4. 삼성전자, 아마존 로보틱스 출신 영입…휴머노이
+5. 이란 전쟁 선포 가짜뉴스로 유가 폭락…비트코인
+6. 국민의힘 대표, 김태흠 지사 공천 설득 실패
+7. 제약업계, 약가인하 반대 공동연구 제안
+8. 김바다 대마 혐의 구속영장 기각
+9. 이란 전쟁, 유가 충격으로 공화당 정치적 불안
+10. 에르도안, 이란과 관계 급변
+11. 인도, 반도체 자립 체계 구축
+12. 터키가 이란에 대해 두 번째로 말했다
+13. 나토, 터키 사태 후 미사일 방어태세 강화
+14. 트럼프, 전 세계 관세 15%로 인상
+15. 인도, 인공지능 기술 확산 세계 최고 수준
+16. 유가 급등, 시장 불안 심화
+17. 러시아-우크라이나, 전선 진전 주장… 미중재
+18. 미크론, 인도 반도체 단지 개설
+19. 고급 포장은 가능합니다.
+20. Kevin Mandia raised $190</description>
+      <itunes:summary>AI 뉴스 브리핑입니다.
+
+1. 중동 사태로 증시 급변동성 확대
+2. 국가AI컴퓨팅센터 금융심사 통과… 구축 속도
+3. SK, 엔비디아 HBM4 최종 샘플 납품
+4. 삼성전자, 아마존 로보틱스 출신 영입…휴머노이
+5. 이란 전쟁 선포 가짜뉴스로 유가 폭락…비트코인
+6. 국민의힘 대표, 김태흠 지사 공천 설득 실패
+7. 제약업계, 약가인하 반대 공동연구 제안
+8. 김바다 대마 혐의 구속영장 기각
+9. 이란 전쟁, 유가 충격으로 공화당 정치적 불안
+10. 에르도안, 이란과 관계 급변
+11. 인도, 반도체 자립 체계 구축
+12. 터키가 이란에 대해 두 번째로 말했다
+13. 나토, 터키 사태 후 미사일 방어태세 강화
+14. 트럼프, 전 세계 관세 15%로 인상
+15. 인도, 인공지능 기술 확산 세계 최고 수준
+16. 유가 급등, 시장 불안 심화
+17. 러시아-우크라이나, 전선 진전 주장… 미중재
+18. 미크론, 인도 반도체 단지 개설
+19. 고급 포장은 가능합니다.
+20. Kevin Mandia raised $190</itunes:summary>
+      <itunes:duration>00:07:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260311.mp3" length="2777085" type="audio/mpeg" />
+      <guid isPermaLink="true">https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260311.mp3</guid>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>2026-03-10 AI 뉴스 브리핑</title>
       <description>AI 뉴스 브리핑입니다.
