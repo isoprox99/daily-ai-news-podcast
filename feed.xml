@@ -5,7 +5,7 @@
     <link>https://isoprox99.github.io/daily-ai-news-podcast</link>
     <description>매일 아침 AI가 선별·요약한 국내외 주요 뉴스를 한국어 음성으로 전달합니다.</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 17 Mar 2026 22:35:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 22:31:46 GMT</lastBuildDate>
     <atom:link href="https://isoprox99.github.io/daily-ai-news-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Daily AI News Digest</itunes:author>
     <itunes:summary>매일 아침 AI가 선별·요약한 국내외 주요 뉴스를 한국어 음성으로 전달합니다.</itunes:summary>
@@ -24,6 +24,58 @@
       <title>Daily AI News Digest</title>
       <link>https://isoprox99.github.io/daily-ai-news-podcast</link>
     </image>
+    <item>
+      <title>2026-03-19 AI 뉴스 브리핑</title>
+      <description>AI 뉴스 브리핑입니다.
+
+1. 은행, 고액자산가 고객 잡기 경쟁
+2. 정유 4 러시아 원유 도입 검토…수급 위기
+3. 한국, UAE와 원유 공급망 협력 합의
+4. AMD 리사 수, 국 AI 기업과 협력 강화
+5. 검찰, 김용현 변호인 구속영장 청구
+6. 민주당, 문정부 통계 조작 사건 국정조사 추진
+7. 금융당국, 코스닥 액티브 ETF 선행매매 의혹
+8. 이 대통령, 주식 매도 후 2일 뒤 정산 시스
+9. 젤렌스키-스타머, 우크라이나 지지 촉구
+10. 트럼프, 전 세계 관세 10%→15% 인상
+11. 인도, 인공지능 기술 확산 최고 수준
+12. 러시아·중국·이란, 스웨덴 주요 위협
+13. 인도 반도체 투자, 글로벌 공급망 변화 예고
+14. 인도, 108억 달러 반도체 제조 지원 기금
+15. 트럼프, 나토 이란 문제 실수 지적
+16. FTSE 100, 원유 가격 상승 속 상승 마
+17. 이스라엘, 이란 정보장관 살해 주장
+18. 인도, 반도체 설계 중심지로 부상
+19. 러시아 외교장관, 미국-이란 군사행동 핵확산
+20. 프랑스, 러시아 핵무기 주장 부정</description>
+      <itunes:summary>AI 뉴스 브리핑입니다.
+
+1. 은행, 고액자산가 고객 잡기 경쟁
+2. 정유 4 러시아 원유 도입 검토…수급 위기
+3. 한국, UAE와 원유 공급망 협력 합의
+4. AMD 리사 수, 국 AI 기업과 협력 강화
+5. 검찰, 김용현 변호인 구속영장 청구
+6. 민주당, 문정부 통계 조작 사건 국정조사 추진
+7. 금융당국, 코스닥 액티브 ETF 선행매매 의혹
+8. 이 대통령, 주식 매도 후 2일 뒤 정산 시스
+9. 젤렌스키-스타머, 우크라이나 지지 촉구
+10. 트럼프, 전 세계 관세 10%→15% 인상
+11. 인도, 인공지능 기술 확산 최고 수준
+12. 러시아·중국·이란, 스웨덴 주요 위협
+13. 인도 반도체 투자, 글로벌 공급망 변화 예고
+14. 인도, 108억 달러 반도체 제조 지원 기금
+15. 트럼프, 나토 이란 문제 실수 지적
+16. FTSE 100, 원유 가격 상승 속 상승 마
+17. 이스라엘, 이란 정보장관 살해 주장
+18. 인도, 반도체 설계 중심지로 부상
+19. 러시아 외교장관, 미국-이란 군사행동 핵확산
+20. 프랑스, 러시아 핵무기 주장 부정</itunes:summary>
+      <itunes:duration>00:08:09</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260319.mp3" length="2911629" type="audio/mpeg" />
+      <guid isPermaLink="true">https://isoprox99.github.io/daily-ai-news-podcast/episodes/report_20260319.mp3</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>2026-03-18 AI 뉴스 브리핑</title>
       <description>AI 뉴스 브리핑입니다.
